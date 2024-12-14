@@ -1,10 +1,10 @@
-package victor_API.API_Rest;
+package victor_API.springbootweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiRestApplicationTests {
+class SpringbootWebApplicationTests {
 
 	@Test
 	void contextLoads() {
